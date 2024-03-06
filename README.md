@@ -1,7 +1,3 @@
-<!--
-**MagdaSlifierz/MagdaSlifierz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-
 ## Hello there! 👋
 
 I'm Magdalena, a passionate software engineer dedicated to crafting innovative solutions with a focus on web development and backend systems. With expertise in Python, FastAPI, and Django REST, I thrive on tackling complex challenges and creating robust, user-centric applications. Follow along as I share my projects, insights, and journey in the world of software development. Let's code and create together!
@@ -19,4 +15,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+
